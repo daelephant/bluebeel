@@ -19,6 +19,15 @@ import (
 	"time"
 )
 
+// @title elephant项目接口文档
+// @version 1.0
+// @description Go web test project
+
+// @contact.name Da
+// @contact.url http://www.daelephant.com
+
+// @host 127.0.0.1:8084
+// @BasePath /api/v1
 func main() {
 	//1.0 启动时指定配置文件
 	//if len(os.Args) < 2 {
